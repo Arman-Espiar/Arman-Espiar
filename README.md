@@ -1,6 +1,2 @@
-<a href="https://github.com/Arman-Espiar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arman-Espiar&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
-</a>
-<a href="https://github.com/Arman-Espiar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arman-Espiar&layout=compact&langs_count=12&hide=html,css&theme=dark" />
-</a>
+![Arman-Espiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arman-Espiar\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arman-Espiar\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
