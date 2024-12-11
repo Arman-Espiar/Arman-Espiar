@@ -31,8 +31,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/selenium/43B02A" height="30" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="30" alt="rabbitmq logo"  />
